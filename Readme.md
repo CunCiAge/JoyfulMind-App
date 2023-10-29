@@ -57,7 +57,7 @@ https://drive.google.com/file/d/16B-Gs7Hu8jc--S4Cy31DQhJKMgPeQLRB/view?usp=drive
 -   Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/cuong0912pham/JoyfulMind.git
+git clone https://github.com/CunCiAge/JoyfulMind-App.git
 cd JoyfulMind
 yarn
 yarn start
